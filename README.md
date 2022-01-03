@@ -1,0 +1,1 @@
+# DogeWhiteCoin.sol
